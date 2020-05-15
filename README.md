@@ -1,6 +1,7 @@
 # Note for me
 * git push --follow-tags
 * git tag -a
+* git fetch; git diff origin/master 
 
 ### head/master x(3) commits back. It is head now github pages shows it! (please test!)
 * git branch # or tag to mark the path. So it is not deleted.
