@@ -3,10 +3,10 @@
 * git tag -a
 * git fetch; git diff origin/master 
 
-### head/master x(3) commits back. It is head now github pages shows it! (please test!)
+### head/master x(3) commits back. It is head now github pages shows it!
 * git branch # or tag to mark the path. So it is not deleted.
 * push remote branch or tag?
-* git reset --hard head~3 # zurück
+* git reset --hard head~3 # back, github-pages shows the old page.
 
 The old tree is now a branch or tag?
 
