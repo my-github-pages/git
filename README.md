@@ -4,7 +4,7 @@
 
 ### head/master x(3) commits back. It is head now github pages shows it! (please test!)
 * git branch # or tag to mark the path. So it is not deleted.
-* push remote!
+* push remote branch or tag?
 * git reset --hard head~3 # zurück
 
 The old tree is now a branch or tag?
