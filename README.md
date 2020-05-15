@@ -11,7 +11,10 @@
 The old tree is now a branch or tag?
 
 # Note for all
+* see: https://git-scm.com/book/en/v2 
 * git status
+* git add . ; git commit -m "What was the idea of this change?" 
+* git push
 
 # Questions
 If we done something wrong does github delete direkt? Or x days. And reflog is your friend?
