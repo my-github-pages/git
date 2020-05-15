@@ -8,7 +8,7 @@
 * push remote branch or tag?
 * git reset --hard head~3 # back, github-pages shows the old page.
 
-The old tree is now a branch or tag?
+The old tree is now a branch or tag.
 
 # Note for all
 * see: https://git-scm.com/book/en/v2 
